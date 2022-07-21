@@ -14,8 +14,8 @@ isi(){
         echo $y"Masukin IP Target : "
         read ip
         curl -s $url$ip
-        echo $y"Tools by MR.xtWHITE(13) "
-        echo $y"Dan Terima Kasih kepada CYBER ATTACK ARMY "
+        echo $y"Tools by ruk1ng "
+        echo $y"Dan Terima Kasih kepada CYBER ARMY CREW"
 }
 
 perintah(){
@@ -40,9 +40,9 @@ banner(){
     sleep 1
     echo $y" Author :   Cyber Ruking "
     sleep 1
-    echo $y"  TQ to :   Thanks to Cyber Attack Army & Eukung "
+    echo $y"  TQ to :   Thanks to Cyber Attack Army & CybersecurityTester "
     sleep 1
-    echo $y"   TEAM :   Dragon Force Malaysia, ScoderCrew "
+    echo $y"   TEAM :   CyberSecurityTester,ScoderCrew, KelantanHackingCrew "
     sleep 1
     echo $b"====================[CYBERWHITE]==========================="
      sleep 1
