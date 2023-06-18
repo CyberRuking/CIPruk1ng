@@ -21,7 +21,7 @@ isi(){
 perintah(){
          echo $g"Masukan Siapa Anda : "
          read nick
-         echo $g"Selamat datang di Cyber ruk1ng $nick "
+         echo $g"Selamat datang di Cyber ruk1ng  $nick "
          echo $y"Ingin menjelajah lebih dalam ? "
          read -p "y/n" piII
          if [ $piII = "y" ]; then
